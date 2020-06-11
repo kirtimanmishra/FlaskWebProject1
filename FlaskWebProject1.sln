@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1.pyproj", "{3ADEFA6A-AB5A-48AD-8B02-632164D1854E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "node_camera", "..\node_camera\node_camera.pyproj", "{F36793F7-A024-4314-8C44-4DDDF2F4E08F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "node_analytics", "..\node_analytics\node_analytics.pyproj", "{9CDB7A69-3969-4F9D-A65D-3EC53A81F315}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "process_wf", "..\process_wf\process_wf.pyproj", "{6E413FBB-ABFF-4785-9494-6919367C7C44}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "node_AC", "..\node_AC\node_AC.pyproj", "{8DDDCEFF-8065-41BA-9094-D3DC0B963B4B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "node_ignore", "..\node_ignore\node_ignore.pyproj", "{717A4DCA-E3D8-4634-A025-45B9861E80AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADEFA6A-AB5A-48AD-8B02-632164D1854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEFA6A-AB5A-48AD-8B02-632164D1854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEFA6A-AB5A-48AD-8B02-632164D1854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEFA6A-AB5A-48AD-8B02-632164D1854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36793F7-A024-4314-8C44-4DDDF2F4E08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36793F7-A024-4314-8C44-4DDDF2F4E08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36793F7-A024-4314-8C44-4DDDF2F4E08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36793F7-A024-4314-8C44-4DDDF2F4E08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDB7A69-3969-4F9D-A65D-3EC53A81F315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDB7A69-3969-4F9D-A65D-3EC53A81F315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDB7A69-3969-4F9D-A65D-3EC53A81F315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDB7A69-3969-4F9D-A65D-3EC53A81F315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E413FBB-ABFF-4785-9494-6919367C7C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E413FBB-ABFF-4785-9494-6919367C7C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E413FBB-ABFF-4785-9494-6919367C7C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E413FBB-ABFF-4785-9494-6919367C7C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDDCEFF-8065-41BA-9094-D3DC0B963B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDDCEFF-8065-41BA-9094-D3DC0B963B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDDCEFF-8065-41BA-9094-D3DC0B963B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDDCEFF-8065-41BA-9094-D3DC0B963B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717A4DCA-E3D8-4634-A025-45B9861E80AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717A4DCA-E3D8-4634-A025-45B9861E80AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717A4DCA-E3D8-4634-A025-45B9861E80AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717A4DCA-E3D8-4634-A025-45B9861E80AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {248D7AAC-1F2C-4010-A2D5-909284439F1A}
+	EndGlobalSection
+EndGlobal
